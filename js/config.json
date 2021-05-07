@@ -1,0 +1,7 @@
+{
+    "COGNITIVE_SERVICES_CREDS": "5e35709a158d4de68f62ed03ea9533f0",
+    "COGNITIVE_SERVICES_ENDPOINT": "https://potterbot-face.cognitiveservices.azure.com/",
+    "BLOB_CONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=potterbot;AccountKey=AYrM7CFlFJwbqRdnQWfbC8VTm8lJkmfcdIBj3IoZhbSej24Fx0ChNoqNMy5I6czy1awPuNXWnKkqkm3hwcEaGQ==;EndpointSuffix=core.windows.net",
+    "BLOB_CONTAINER_NAME": "photos",
+    "BLOB_BASE_URL": "https://potterbot.blob.core.windows.net/photos/"
+}
